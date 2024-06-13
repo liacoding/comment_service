@@ -11,12 +11,9 @@ Key Concepts and Features
 - Stereotype Annotations: Stereotype annotations, such as @Component, @ComponentScan, are utilized to define Spring-managed components and streamline the configuration of the application context.
 - Loose Coupling: The design emphasizes loose coupling between components, ensuring that the system is more adaptable to change and enhancing its overall modularity and testability.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 By focusing on these core concepts, the project aims to provide a clear and practical example of how Spring can be used to build a robust and scalable service. It serves as a valuable learning resource for understanding the essential principles of the Spring framework and their application in real-world scenarios.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
